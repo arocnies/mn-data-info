@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.datainfo
+---
+testFramework: spek
+sourceLanguage: kotlin
