@@ -8,7 +8,7 @@ Build and run the project with `build_run.sh`
 
 ### IntelliJ RESTful webservices client tests:
 
-![Image](https://i.postimg.cc/L8PBpwdb/Screen-Shot-2018-11-09-at-4-13-51-PM.png)
+![Image](https://i.postimg.cc/7LRkM695/Screen-Shot-2018-11-09-at-5-53-38-PM.png)
 
 ### IntelliJ Docker
 
